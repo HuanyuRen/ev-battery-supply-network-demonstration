@@ -20,4 +20,4 @@ python code/verify_data.py data
 python code/run_reproduction.py --data-dir data --output-dir reproduction_outputs
 ```
 
-The synthetic data and score tables are supplied as fixed inputs. The generator is not included in this archive. The original synthetic source manifest is retained for provenance. The SHA-256 list verifies the uploaded version of this archive.
+These synthetic demonstration files use artificial company names and identifiers. The supplied scripts check file structure and recompute metrics and conclusion checks from the score tables. The generator is not included.
